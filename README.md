@@ -23,7 +23,8 @@ NexusDeploy demonstrates how application code can move through a CI/CD workflow,
 
 ### 1. NexusDeploy Dashboard
 
-![NexusDeploy Dashboard](screenshots/dashboard.png)
+![Uploading final pro 1 .png…]()
+
 
 ### 2. GitHub Actions CI/CD Pipeline
 
