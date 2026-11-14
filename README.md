@@ -19,26 +19,16 @@ NexusDeploy demonstrates how application code can move through a CI/CD workflow,
 - Deploy and run the application on an AWS EC2 instance.
 - Display application health and version information through a web dashboard.
 
-## Dashboard Screenshots
-
-### 1. NexusDeploy Dashboard
-
-![Uploading final pro 1 .png…]()
+## Dashboard Screenshot
+<img width="1366" height="768" alt="final pro 1 " src="https://github.com/user-attachments/assets/042fcf03-1a28-4e0f-99bc-e69954e5781a" />
 
 
-### 2. GitHub Actions CI/CD Pipeline
+<img width="1366" height="768" alt="final pro 2" src="https://github.com/user-attachments/assets/04691597-6cd6-4d7b-92e3-19d84c9c512f" />
 
-![GitHub Actions Pipeline](screenshots/github-actions.png)
 
-### 3. AWS ECR Container Images
+<img width="1356" height="688" alt="github action" src="https://github.com/user-attachments/assets/fcb3b821-ffa1-444a-b0c3-fc6d4f900731" />
 
-![AWS ECR Images](screenshots/ecr-images.png)
-
-### 4. Application Health Check
-
-![Application Health Check](screenshots/health-check.png)
-
-> Screenshots will appear here after the image files are uploaded to the `screenshots/` directory.
+<img width="1366" height="768" alt="pro2" src="https://github.com/user-attachments/assets/33087a8f-b6f5-4e13-a9ff-c306bae82ff7" />
 
 ## Architecture
 
